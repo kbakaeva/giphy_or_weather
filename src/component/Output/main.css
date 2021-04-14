@@ -1,0 +1,24 @@
+.emptyText{
+    opacity: 0.8;
+    color: grey;
+}
+
+.output{
+    margin-top: 2%;
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+}
+
+.giphy{
+    margin-top: 2%;
+}
+
+.giphyIframe{
+    border: 1px solid grey;
+    background-color: black;
+}
+
+.region{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

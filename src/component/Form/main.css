@@ -1,0 +1,14 @@
+.searchButton{
+    background-color: red;
+    color: white;
+    border:  1px solid black;
+    margin-left: 1%;
+}
+
+.naming{
+    font-size: 40px;
+    font-weight: bold;
+    color: red;
+    font-family: CooperBlack-Thin-Italic;
+    margin-left: 45%;
+}
